@@ -4,7 +4,7 @@
 |--------|-|
 |k21-4727|Faisal Khan|
 |k21-4729|Muhammad Zain|
-|k21-|Hasnain Raza|
+|k21-4720|Hasnain Raza|
 
 
 ## Assingment 1 ##
