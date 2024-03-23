@@ -25,7 +25,7 @@
       with peers and seeking guidance from instructors for effective tiling strategies.
 
 3. Issue 3: Benchmarking
-    -Problem: Developing robust benchmarking scripts and ensuring accurate timing measurements was daunting.
-    -Solution: Designing benchmarking scripts with clear objectives and parameters. Ensuring consistency in testing conditions by running benchmarks 
-     on the same hardware and under similar environmental settings. Implementing statistical analysis techniques to calculate average execution 
-     times and identify outliers. Validating benchmark results through repeated testing and comparison with theoretical expectations.
+    - Problem: Developing robust benchmarking scripts and ensuring accurate timing measurements was daunting.
+    - Solution: Designing benchmarking scripts with clear objectives and parameters. Ensuring consistency in testing conditions by running 
+      benchmarks on the same hardware and under similar environmental settings. Implementing statistical analysis techniques to calculate average 
+      execution times and identify outliers. Validating benchmark results through repeated testing and comparison with theoretical expectations.
